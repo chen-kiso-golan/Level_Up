@@ -1,0 +1,34 @@
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\bin\Debug\net6.0-windows\CW9_TheInterfaceApp.exe
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\bin\Debug\net6.0-windows\CW9_TheInterfaceApp.deps.json
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\bin\Debug\net6.0-windows\CW9_TheInterfaceApp.runtimeconfig.json
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\bin\Debug\net6.0-windows\CW9_TheInterfaceApp.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\bin\Debug\net6.0-windows\CW9_TheInterfaceApp.pdb
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.csproj.AssemblyReference.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.Form1.resources
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.csproj.GenerateResource.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.AssemblyInfoInputs.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.AssemblyInfo.cs
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\refint\CW9_TheInterfaceApp.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.pdb
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.genruntimeconfig.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\ref\CW9_TheInterfaceApp.dll
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\bin\Debug\net6.0-windows\CW9_TheInterfaceApp.exe
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\bin\Debug\net6.0-windows\CW9_TheInterfaceApp.deps.json
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\bin\Debug\net6.0-windows\CW9_TheInterfaceApp.runtimeconfig.json
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\bin\Debug\net6.0-windows\CW9_TheInterfaceApp.dll
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\bin\Debug\net6.0-windows\CW9_TheInterfaceApp.pdb
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.csproj.AssemblyReference.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.Form1.resources
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.csproj.GenerateResource.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.AssemblyInfoInputs.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.AssemblyInfo.cs
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.dll
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\refint\CW9_TheInterfaceApp.dll
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.pdb
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\CW9_TheInterfaceApp.genruntimeconfig.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW9_TheInterfaceApp\obj\Debug\net6.0-windows\ref\CW9_TheInterfaceApp.dll

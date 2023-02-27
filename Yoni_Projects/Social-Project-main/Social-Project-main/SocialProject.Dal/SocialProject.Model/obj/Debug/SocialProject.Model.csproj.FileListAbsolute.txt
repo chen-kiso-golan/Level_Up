@@ -1,0 +1,6 @@
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Model\bin\Debug\SocialProject.Model.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Model\bin\Debug\SocialProject.Model.pdb
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Model\obj\Debug\SocialProject.Model.csproj.AssemblyReference.cache
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Model\obj\Debug\SocialProject.Model.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Model\obj\Debug\SocialProject.Model.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Model\obj\Debug\SocialProject.Model.pdb

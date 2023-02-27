@@ -1,0 +1,12 @@
+.sidenavbar--menu {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding: 10px;
+}
+ul {
+  gap: 10%;
+}
+.sidenavbar--container {
+  background-color: rgb(219, 232, 244);
+}

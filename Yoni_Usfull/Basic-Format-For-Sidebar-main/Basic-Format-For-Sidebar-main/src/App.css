@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: gray;
+}
+.page-order {
+  display: flex;
+  gap: 15px;
+}

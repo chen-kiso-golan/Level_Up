@@ -1,0 +1,54 @@
+.navbar--container {
+  margin: 30px 30px 30px 30px;
+}
+
+.navbar--list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: white;
+  list-style: none;
+}
+
+.navbar--btns {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-right: 45%;
+}
+
+label {
+  font-family: "Montserrat", sans-serif;
+  color: black;
+  padding: 10px;
+}
+
+label:hover {
+  /* border-bottom: 100px bold brown;
+  border-bottom-color: brown; */
+  color: brown;
+  font-weight: bolder;
+}
+
+/* .navbar--li:hover {
+  border-bottom: 1px bold transparent;
+} */
+
+.navbar--btns--logout {
+  padding: 5px;
+}
+
+.navbar--btns--theme {
+  padding: 5px;
+}
+
+.navbar--logo {
+  font-weight: 800;
+  font-size: large;
+}
+
+.navbar--logo:hover {
+  font-weight: 800;
+  font-size: x-large;
+  color: brown;
+}

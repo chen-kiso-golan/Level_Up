@@ -1,0 +1,18 @@
+.container--Insertstudent {
+  display: flex;
+  flex-direction: column !important;
+  gap: 30px;
+  margin-top: 40px !important;
+  margin-left: 300px !important;
+  width: 700px;
+}
+
+.btn {
+  width: 150px;
+  height: 40px;
+  align-self: center !important;
+}
+
+span {
+  padding: 10px !important;
+}

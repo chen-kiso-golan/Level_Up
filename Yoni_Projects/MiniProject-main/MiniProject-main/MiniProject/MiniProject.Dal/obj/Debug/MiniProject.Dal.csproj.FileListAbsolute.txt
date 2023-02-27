@@ -1,0 +1,12 @@
+C:\level-up\Semester B\React\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\bin\Debug\MiniProject.Dal.dll
+C:\level-up\Semester B\React\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\bin\Debug\MiniProject.Dal.pdb
+C:\level-up\Semester B\React\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\obj\Debug\MiniProject.Dal.csproj.AssemblyReference.cache
+C:\level-up\Semester B\React\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\obj\Debug\MiniProject.Dal.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\React\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\obj\Debug\MiniProject.Dal.dll
+C:\level-up\Semester B\React\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\obj\Debug\MiniProject.Dal.pdb
+C:\level-up\Semester B\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\bin\Debug\MiniProject.Dal.dll
+C:\level-up\Semester B\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\bin\Debug\MiniProject.Dal.pdb
+C:\level-up\Semester B\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\obj\Debug\MiniProject.Dal.csproj.AssemblyReference.cache
+C:\level-up\Semester B\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\obj\Debug\MiniProject.Dal.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\obj\Debug\MiniProject.Dal.dll
+C:\level-up\Semester B\HW_MiniProject_React-Azur\MiniProject\MiniProject.Dal\obj\Debug\MiniProject.Dal.pdb

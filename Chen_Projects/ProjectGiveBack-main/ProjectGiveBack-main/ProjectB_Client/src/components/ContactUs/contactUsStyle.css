@@ -1,0 +1,15 @@
+.form-container {
+  height: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-left: 300px;
+  gap: 17px;
+}
+
+.form-group {
+  width: 300px;
+}

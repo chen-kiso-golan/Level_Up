@@ -1,0 +1,51 @@
+.App--CancelAccessibility {
+  background-color: rgba(130, 141, 235, 0.274);
+}
+.App--Accessibility {
+  background-color: #f6f6c9;
+}
+
+header {
+  grid-area: header;
+  background-color: #bad1c2;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.App--AllUserSidebar {
+  grid-area: sidebar;
+  background-color: #a3bb7e;
+  position: sticky;
+  left: 0;
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 2%;
+  /* background-color: #aabd8c; */
+  /* position: fixed;
+  top: 40px;
+  left: 0;
+  width: 220px; */
+}
+
+.App--Routes {
+  grid-area: main !important;
+}
+
+footer {
+  grid-area: footer;
+  background-color: #153462;
+  height: max-content;
+}
+
+.App--CancelAccessibility,
+.App--Accessibility {
+  display: grid;
+  grid-template-rows: 50px auto 50px !important;
+  grid-template-columns: 220px 1fr;
+  grid-template-areas:
+    "header header"
+    "sidebar main"
+    "footer footer";
+}

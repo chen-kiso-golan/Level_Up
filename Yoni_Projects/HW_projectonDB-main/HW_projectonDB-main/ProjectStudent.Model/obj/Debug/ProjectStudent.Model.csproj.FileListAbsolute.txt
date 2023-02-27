@@ -1,0 +1,6 @@
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Model\bin\Debug\ProjectStudent.Model.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Model\bin\Debug\ProjectStudent.Model.pdb
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Model\obj\Debug\ProjectStudent.Model.csproj.AssemblyReference.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Model\obj\Debug\ProjectStudent.Model.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Model\obj\Debug\ProjectStudent.Model.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Model\obj\Debug\ProjectStudent.Model.pdb

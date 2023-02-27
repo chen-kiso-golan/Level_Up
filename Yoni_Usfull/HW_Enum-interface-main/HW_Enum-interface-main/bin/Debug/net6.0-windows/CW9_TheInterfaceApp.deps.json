@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CW9_TheInterfaceApp/1.0.0": {
+        "runtime": {
+          "CW9_TheInterfaceApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CW9_TheInterfaceApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

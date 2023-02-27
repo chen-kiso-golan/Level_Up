@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MiniProject.Server": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7129",
+      "launchBrowser": false
+    }
+  }
+}

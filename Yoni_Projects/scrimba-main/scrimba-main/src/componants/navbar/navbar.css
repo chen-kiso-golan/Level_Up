@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgb(207, 117, 117);
+  padding: 10px;
+  color: azure;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav i {
+  padding-right: 10px;
+}

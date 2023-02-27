@@ -1,0 +1,131 @@
+* {
+  font-family: "papyrus", fantasy;
+  font-size: large;
+  font-weight: 500;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+.Toolbar {
+  color: aliceblue;
+}
+.TC:hover {
+  font-size: larger;
+  color: rgb(231, 176, 140);
+}
+.ToolbarContent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(71, 75, 78);
+  width: 100%;
+  height: 70px;
+}
+.ToolbarImg {
+  height: 20%;
+  width: 10%;
+  border-radius: 100%;
+  border-style: ridge;
+  border-color: black;
+  position: absolute;
+  margin-top: -1%;
+  margin-left: 2%;
+  box-shadow: 5px 5px 5px rgb(140, 163, 171);
+  animation: rotateAnimation 3s linear infinite;
+}
+
+@keyframes rotateAnimation {
+  from {
+    transform: rotateY(45deg);
+  }
+  to {
+    transform: rotateY(225deg);
+  }
+}
+.TC {
+  margin-right: 7%;
+}
+/*---------------------------------------------------------*/
+h1 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 35px;
+}
+.bodymain {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 10%;
+  gap: 10%;
+}
+.elhen {
+  width: 200px;
+  border-radius: 50%;
+}
+.button {
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(71, 75, 78);
+  color: white;
+  padding: 12px 28px;
+}
+.button:hover {
+  background-color: rgb(140, 163, 171);
+  color: white;
+}
+/*----------------------------------------------------------*/
+.footer {
+  background-color: rgb(71, 75, 78);
+  color: azure;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  gap: 5%;
+}
+
+.title1 {
+  font-weight: bolder;
+  font-size: medium;
+  color: azure;
+  line-height: 40px;
+  border-bottom: 5px groove;
+  border-color: rgb(192, 20, 97);
+}
+.table1 {
+  display: flex;
+  flex-direction: column;
+  line-height: 30px;
+  color: rgb(117, 119, 121);
+  font-size: smaller;
+}
+
+.facebook {
+  width: 1.1cm;
+  height: 1.1cm;
+}
+
+.twitter {
+  width: 1cm;
+  height: 1cm;
+}
+
+.instagram {
+  width: 1cm;
+  height: 1cm;
+}
+
+.linkedin {
+  width: 1cm;
+  height: 1cm;
+}
+
+.t:hover {
+  font-size: larger;
+  color: rgb(231, 176, 140);
+}

@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center !important;
+
+  margin: 8px !important;
+}
+
+.bg-light {
+  background-color: rgb(113, 168, 236) !important;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+
+  gap: 80px !important;
+}
+
+a {
+  text-decoration: none !important;
+}

@@ -1,0 +1,6 @@
+.PageStyle {
+  display: flex !important;
+  margin: 30px 30px 30px 30px;
+  background-color: white;
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\bin\Debug\ProjectStudent.Entities.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\bin\Debug\ProjectStudent.Entities.pdb
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\bin\Debug\ProjectStudent.DAL.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\bin\Debug\ProjectStudent.Model.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\bin\Debug\ProjectStudent.DAL.pdb
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\bin\Debug\ProjectStudent.Model.pdb
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\obj\Debug\ProjectStudent.Entities.csproj.AssemblyReference.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\obj\Debug\ProjectStudent.Entities.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\obj\Debug\ProjectStudent.Entities.csproj.CopyComplete
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\obj\Debug\ProjectStudent.Entities.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\ProjectStudent.Model\ProjectStudent.Entities\obj\Debug\ProjectStudent.Entities.pdb

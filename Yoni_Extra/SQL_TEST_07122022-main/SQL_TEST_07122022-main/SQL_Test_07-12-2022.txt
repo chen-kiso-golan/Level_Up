@@ -1,0 +1,75 @@
+--------------SQL TEST Q1
+--select * from [dbo].[Products] where [UnitPrice]>30 and [UnitPrice]<40
+
+--------------SQL TEST Q2
+--select * from [dbo].[Products]
+--inner join [dbo].[Categories]
+--on [dbo].[Products].CategoryID = [dbo].[Categories].CategoryID
+--where [CategoryName] = 'Condiments'
+
+--------------SQL TEST Q3
+--select * from [dbo].[Products]
+--inner join [dbo].[Categories]
+--on [dbo].[Products].CategoryID = [dbo].[Categories].CategoryID
+--where [Description] like '%s%'
+--order by [CategoryName] ASC 
+
+
+--------------SQL TEST Q4
+--select DISTINCT [ProductName] from [dbo].[Products]
+--inner join [dbo].[Order Details]
+--on [dbo].[Products].ProductID = [dbo].[Order Details].ProductID
+--inner join [dbo].[Orders]
+--on [dbo].[Orders].OrderID = [dbo].[Order Details].OrderID
+--inner join [dbo].[Customers]
+--on [dbo].[Orders].[CustomerID] =[dbo].[Customers].CustomerID
+--where [dbo].[Customers].CustomerID like 'ALFKI'
+
+--------------SQL TEST Q5
+--select * from [dbo].[Orders] where [ShipCountry] = 'Brazil' or [ShipCity]= 'London'
+
+--------------SQL TEST Q6
+--select [ContactName] from [dbo].[Customers]
+--inner join [dbo].[Orders]
+--on [dbo].[Customers].CustomerID = [dbo].[Orders].CustomerID
+--inner join [dbo].[Shippers]
+--on [dbo].[Orders].ShipVia = [dbo].[Shippers].ShipperID
+--where [dbo].[Shippers].ShipperID = 3
+
+--------------SQL TEST Q7
+--create PROCEDURE ProductName_ByOrderID
+-- @orderID int
+-- AS
+-- BEGIN
+--	select p.ProductName, p.UnitPrice as TotalPriceBYOrder from [dbo].[Products] as p
+--	inner join [dbo].[Order Details] as OD
+--	on OD.ProductID = p.ProductID
+--	where [OrderID] = @orderID
+
+--	select sum(P.UnitPrice) as OrderFull_Price
+--	from [Order Details] as OD
+--	inner join Products as P
+--	on OD.ProductID = P.ProductID
+--	where OD.OrderID = @orderID
+--END
+--GO
+
+--exec ProductName_ByOrderID @orderID= 10248
+--drop PROCEDURE ProductName_ByOrderID
+
+
+--------------SQL TEST Q8
+--select[CustomerID],[EmployeeID],[ShipVia],[Freight],[ShipName],[ShipAddress],[ShipCity],[ShipRegion],[ShipPostalCode],[ShipCountry] from [dbo].[Orders]
+--where [ShipVia] = 1 and  ([EmployeeID] = 2 or [EmployeeID] = 5) and ([ShipCountry] like 'France' or [ShipCountry] like 'Sweden'or [ShipCountry] like 'Canada') and ([ShipCity] like 'Lule%' or [ShipCity] like 'Strasbourg' or [ShipCity] like 'Marseille' or [ShipCity] like 'Tsawassen')
+
+--------------SQL TEST Q9
+--select OD.OrderID, OD.ProductID, OD.UnitPrice, OD.Quantity, OD.Discount, O.OrderDate, O.EmployeeID, O.CustomerID from [dbo].[Order Details] as OD 
+--inner join  [dbo].[Orders] as O
+--on O.OrderID != OD.OrderID or O.OrderID = OD.OrderID
+--where OD.OrderID = 10248 and [CustomerID] like 'VINET' 
+--order by UnitPrice asc, EmployeeID asc
+
+--------------SQL TEST Q10
+--select [CustomerID], [Region], [Country] from [dbo].[Customers]
+--where [Country] like 'France' or [Country] like 'Canada'
+

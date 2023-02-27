@@ -1,0 +1,38 @@
+.circle--body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.circle {
+  height: 10rem;
+  width: 10rem;
+  border: 1px solid white;
+  border-radius: 50%;
+  position: relative;
+  animation: animate 4s linear infinite;
+}
+.circle::before {
+  content: " ";
+  height: 3rem;
+  width: 3rem;
+  display: flex;
+  border-radius: 50%;
+  background-color: rgb(222, 180, 180);
+  box-shadow: 0 0 12px 2px rgb(222, 180, 180);
+}
+@keyframes animate {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.circle--loginbtn {
+  border-radius: 100%;
+  background-color: argb(222, 180, 180);
+  box-shadow: 0 0 12px 2px rgb(222, 180, 180);
+  height: 4rem;
+  width: 4rem;
+  border-style: none;
+}

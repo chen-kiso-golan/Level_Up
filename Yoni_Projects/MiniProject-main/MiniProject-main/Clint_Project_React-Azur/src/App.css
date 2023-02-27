@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.page-order {
+  display: flex;
+  gap: 15px;
+}
+.po-dark {
+  background-color: rgb(178, 186, 186);
+}
+
+.po-light {
+  background-color: rgb(249, 247, 183);
+}

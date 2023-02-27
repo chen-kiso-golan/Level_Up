@@ -1,0 +1,50 @@
+----Q1
+--select Tbl3.ProductID,Tbl3.ProductName into newTable from [dbo].[Orders] Tbl1
+--inner join [Order Details] Tbl2 on Tbl1.OrderID = Tbl2.OrderID
+--inner join [dbo].[Products] Tbl3 on Tbl2.ProductID = Tbl3.ProductID
+--where Tbl1.ShipVia = 1
+
+--select * from newTable
+--select top 5* from newTable
+
+--drop table newTable
+
+
+----Q2
+--select Tbl1.*,Tbl3.ProductName into order2 from [dbo].[Orders] Tbl1
+--inner join [Order Details] Tbl2 on Tbl1.OrderID = Tbl2.OrderID
+--inner join [Products] Tbl3 on Tbl2.ProductID = Tbl3.ProductID
+--where Tbl1.ShipVia = 2
+
+--select ProductName from order2
+
+--delete from order2 where ShipCountry like '%E%'
+
+--select distinct ProductName from order2
+
+--drop table order2
+
+
+
+----Q3
+--select CustomerID,Tbl1.OrderID,Tbl4.CompanyName into orderA from [Orders] Tbl1
+--inner join [Order Details]Tbl2 on Tbl1.OrderID = Tbl2.OrderID
+--inner join [Products] Tbl3 on Tbl2.ProductID = Tbl3.ProductID
+--inner join [Suppliers] Tbl4 on Tbl3.SupplierID=Tbl4.SupplierID
+--where CustomerID like '%A%' 
+
+--select distinct CompanyName from orderA
+
+--drop table orderA
+
+
+----Q4
+--select ContactName,ProductName into newTable from [Products] Tbl1
+--inner join [Order Details]Tbl2 on Tbl1.ProductID = Tbl2.ProductID
+--inner join [Orders]Tbl3 on Tbl2.OrderID = Tbl3.OrderID
+--inner join [Customers]Tbl4 on Tbl3.CustomerID = Tbl4.CustomerID
+--where ProductName like 'L%'
+
+--select * from newTable
+
+--drop table newTable

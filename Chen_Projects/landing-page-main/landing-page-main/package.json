@@ -1,0 +1,23 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen-kiso-golan/landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chen-kiso-golan/landing-page/issues"
+  },
+  "homepage": "https://github.com/chen-kiso-golan/landing-page#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}

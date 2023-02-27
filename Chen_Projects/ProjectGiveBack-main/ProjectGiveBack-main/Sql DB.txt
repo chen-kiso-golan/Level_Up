@@ -1,0 +1,58 @@
+----יצירת טבלת ארגונים ללא מטרת רווח
+create table Non_Profit_Organizations(Code int primary key identity, 
+Name nvarchar(max), Email nvarchar(max), Website_URL nvarchar(max), Image nvarchar(MAX))
+
+----יצירת טבלת חברות עסקים
+create table Buisness_Companies(Code int primary key identity, 
+Name nvarchar(max), Email nvarchar(max), Image nvarchar(MAX))
+
+----יצירת טבלת פעילים חברתיים
+create table Social_Activist(Code int primary key identity, 
+Name nvarchar(max), Email nvarchar(max), Address nvarchar(max), 
+PhoneNumber nvarchar(max), Money money, Image nvarchar(MAX))
+
+----יצירת טבלת קמפיינים
+create table Campaigns(Code int primary key identity, 
+Name nvarchar(max), Email nvarchar(max), 
+Link_URL nvarchar(max), Hashtag nvarchar(max), 
+NPO_code int foreign key references Non_Profit_Organizations (code), Image nvarchar(MAX), 
+Is_Active bit)
+
+ ----יצירת טבלת ציוצים
+create table Tweets(Code int primary key identity, 
+SA_code int foreign key references Social_Activist (code),
+Campaign_code int foreign key references Campaigns (code),
+Hashtag nvarchar(max), Link_URL nvarchar(max),
+Tweet_Content nvarchar(max), Tweet_Time datetime)
+
+ ----יצירת טבלת מוצרים
+create table Products(Code int primary key identity, 
+Name nvarchar(max), Price money, Units_In_Stock int, 
+BC_code int foreign key references Buisness_Companies (code),
+Campaign_code int foreign key references Campaigns (code), Image nvarchar(MAX))
+
+ ----יצירת טבלת הזמנות
+create table Orders(Code int primary key identity, 
+SA_code int foreign key references Social_Activist (code),
+BC_code int foreign key references Buisness_Companies (code),
+Campaign_code int foreign key references Campaigns (code),
+Product_code int foreign key references Products (code),
+Order_Time datetime, Is_Sent bit)
+
+
+----יצירת טבלת הודעות משתמשים
+create table Contact_Us(Code int primary key identity, 
+Name nvarchar(max), Message nvarchar(max), Phone nvarchar(max), 
+Email nvarchar(max),  date datetime)
+
+----Creating a table of Configuration
+create table Configuration(Code int primary key identity, 
+Name nvarchar(max), value nvarchar(max))
+
+
+----------------------------------------------------------------------------------------------------------
+ALTER TABLE Social_Activist
+ADD Twitter_Name NVARCHAR(MAX) NULL;
+
+ALTER TABLE Tweets
+ADD Tweet_id NVARCHAR(MAX) NULL;

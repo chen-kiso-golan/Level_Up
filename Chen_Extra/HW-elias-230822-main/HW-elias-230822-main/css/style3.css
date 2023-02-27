@@ -1,0 +1,25 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(234, 101, 101);
+}
+
+.top {
+  width: 100%;
+  height: 200px;
+  margin-top: -10px;
+  margin-left: 0px;
+  margin-right: -10px;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+}
+
+.pic {
+  height: 150px;
+  width: 150px;
+  margin-left: 20px;
+  margin-right: 15px;
+}

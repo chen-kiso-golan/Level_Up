@@ -1,0 +1,26 @@
+@import "../theme.less";
+
+.lorem-ipsum {
+  color: @brand-color;
+  font-size: @base-text-size;
+  border: 1px solid @brand-color;
+  //   .one-line-ellipsis;
+  .several-line-ellipsis(2);
+}
+
+.topic {
+  margin-top: 1em;
+  color: @topic-text-color;
+
+  .topic-title {
+    font-weight: bold;
+    font-size: 2em;
+    text-decoration: underline;
+    margin-bottom: 0.5rem;
+  }
+
+  .topic-body {
+    font-size: @base-text-size;
+    padding-inline-start: 2em;
+  }
+}

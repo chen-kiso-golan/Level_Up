@@ -1,0 +1,59 @@
+.form-container {
+  height: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-left: 100px;
+  gap: 15px;
+}
+
+.form-group {
+  width: 300px;
+}
+
+textarea {
+  width: 600px;
+}
+
+.form--submit {
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+  form {
+    margin-left: 60px;
+  }
+  .form-container {
+    gap: 10px;
+  }
+  .form-group {
+    width: 200px;
+  }
+  textarea {
+    width: 300px;
+  }
+  label {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  form {
+    margin-left: 30px;
+  }
+  .form-container {
+    gap: 10px;
+  }
+  .form-group {
+    width: 100px;
+  }
+  textarea {
+    width: 200px;
+  }
+  label {
+    display: none;
+  }
+}

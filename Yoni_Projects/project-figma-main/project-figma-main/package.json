@@ -1,0 +1,23 @@
+{
+  "name": "project-figma",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonig15/project-figma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonig15/project-figma/issues"
+  },
+  "homepage": "https://github.com/yonig15/project-figma#readme",
+  "dependencies": {
+    "parcel": "^2.7.0"
+  }
+}

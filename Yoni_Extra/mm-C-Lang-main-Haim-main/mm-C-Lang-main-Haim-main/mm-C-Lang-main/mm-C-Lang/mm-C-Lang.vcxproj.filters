@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mm-C-Lang.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_1_logical.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_1_printBitMask.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_1_typecast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_1_Pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_2_Homework.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_2_PointersClassWork.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_2_Files.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_3_DynStrings.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_3_FilesWrite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_3_Structure.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_3_StructureAndFiles.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week2_3_sprintf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week_3_1_BinFiles.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_1_WriteStructIntoFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_1_BibFile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_1_ArraysFile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_1_StructuresAndMalloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_2_AllocStructures.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_2_Homework.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_2_LinkedList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_3_RandomNumbers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_3_Typedef.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_3_SortedLinedList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week3_3_Party_Files.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4_1Argv_Argc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4_1_CopyFiles.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4_1_Queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4_3_Header.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4_3_Header2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4_3_UseFunc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4_3_UseFunc2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5_1_fputs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5_1_Time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5_1_Sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5_5_Parsing.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week5_4_ReadHeader.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6_1_Tree1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6_1_Tree2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6_2_Lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6_2_Recursion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week6_2_Tree3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Week2_2_File1.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Week2_2_File2.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Week2_2_File3.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Week4_3_UseFunc.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mm_c_Utilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

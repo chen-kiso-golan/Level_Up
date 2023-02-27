@@ -1,0 +1,53 @@
+---- Q1
+--select [ProductID],[CategoryID],[ProductName] from [dbo].[Products]
+--select [CategoryID],[CategoryName] from [dbo].[Categories]
+--select [ProductID] from [dbo].[Order Details]
+
+----Q2
+--select * from [dbo].[Products] inner join [dbo].[Categories]
+--on [dbo].[Products].[CategoryID] = [dbo].[Categories].[CategoryID]
+--where [dbo].[Products].ProductID >65
+
+----Q3
+----select * from [dbo].[Products] inner join [dbo].[Suppliers]
+----on [dbo].[Products].SupplierID = [dbo].[Suppliers].SupplierID
+
+--select [ProductName] from [dbo].[Products]
+--select [dbo].[Suppliers].CompanyName from [dbo].[Suppliers]
+
+----Q4
+----select [ProductName] from [dbo].[Products] where [dbo].[Products].
+----select [dbo].[Suppliers].CompanyName from [dbo].[Suppliers] where [dbo].[Suppliers].Country='USA'
+
+--select Tbl1.ProductName,Tbl2.Country from [dbo].[Products] Tbl1 inner join [dbo].[Suppliers] Tbl2
+--on Tbl1.SupplierID= Tbl2.SupplierID where Tbl2.Country ='USA'
+
+----Q5
+--select Tbl1.ProductName,Tbl2.Country from [dbo].[Products] Tbl1 inner join [dbo].[Suppliers] Tbl2
+--on Tbl1.SupplierID= Tbl2.SupplierID where Tbl2.Country <>'Germany'
+
+----Q6
+--select [CompanyName],[HomePage] from [dbo].[Suppliers] where [HomePage] is not NULL
+
+----Q7
+--select Tbl1.ProductName,Tbl2.CompanyName from [dbo].[Products] Tbl1 inner join [dbo].[Suppliers] Tbl2
+--on Tbl1.SupplierID= Tbl2.SupplierID where Tbl2.HomePage is not NULL
+
+----Q8
+--select [RequiredDate] from [dbo].[Orders] where [OrderID] = 10408
+
+----Q9
+--select * from [dbo].[Products]
+--inner join [dbo].[Order Details]
+--on [dbo].[Products].ProductID=[dbo].[Order Details].ProductID
+--inner join [dbo].[Orders]
+--on [dbo].[Orders].OrderID =[dbo].[Order Details].OrderID
+--where [dbo].[Order Details].OrderID = 10408
+
+----Q10
+--select [CompanyName] from [dbo].[Suppliers]
+--inner join [dbo].[Products]
+--on [dbo].[Products].SupplierID=[dbo].[Suppliers].SupplierID
+--inner join [dbo].[Order Details]
+--on [dbo].[Order Details].ProductID =[dbo].[Products].ProductID
+--where [dbo].[Order Details].OrderID = 10408

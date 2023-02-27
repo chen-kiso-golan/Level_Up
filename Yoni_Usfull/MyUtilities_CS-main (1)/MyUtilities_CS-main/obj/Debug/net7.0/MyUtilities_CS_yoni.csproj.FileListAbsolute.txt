@@ -1,0 +1,12 @@
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\bin\Debug\net7.0\MyUtilities_CS_yoni.deps.json
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\bin\Debug\net7.0\MyUtilities_CS_yoni.dll
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\bin\Debug\net7.0\MyUtilities_CS_yoni.pdb
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\obj\Debug\net7.0\MyUtilities_CS_yoni.csproj.AssemblyReference.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\obj\Debug\net7.0\MyUtilities_CS_yoni.GeneratedMSBuildEditorConfig.editorconfig
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\obj\Debug\net7.0\MyUtilities_CS_yoni.AssemblyInfoInputs.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\obj\Debug\net7.0\MyUtilities_CS_yoni.AssemblyInfo.cs
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\obj\Debug\net7.0\MyUtilities_CS_yoni.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\obj\Debug\net7.0\MyUtilities_CS_yoni.dll
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\obj\Debug\net7.0\refint\MyUtilities_CS_yoni.dll
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\obj\Debug\net7.0\MyUtilities_CS_yoni.pdb
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\MyUtilities_CS_yoni\obj\Debug\net7.0\ref\MyUtilities_CS_yoni.dll

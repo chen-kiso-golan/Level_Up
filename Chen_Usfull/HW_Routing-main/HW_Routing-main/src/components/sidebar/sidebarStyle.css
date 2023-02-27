@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 200px !important;
+  height: 100vh;
+  background-color: rgb(121, 121, 227);
+}
+ul {
+  background-color: rgb(121, 121, 227);
+  list-style: none;
+}
+li {
+  position: relative;
+  left: -25px;
+  background-color: rgb(121, 121, 227);
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+.notfound-li {
+  margin-top: 100px;
+}
+a {
+  background-color: rgb(121, 121, 227);
+  text-decoration: none !important;
+  color: bisque !important;
+  margin: 3px;
+}
+label {
+  background-color: rgb(121, 121, 227);
+}
+label:hover {
+  cursor: pointer;
+}
+svg {
+  background-color: rgb(121, 121, 227);
+  color: bisque;
+  margin: 3px;
+}
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 70px !important;
+  }
+  label {
+    display: none !important;
+  }
+  svg {
+    position: relative;
+    left: -10px;
+  }
+}

@@ -1,0 +1,12 @@
+.filterTableList {
+  margin-top: 150px;
+}
+
+ul li {
+  cursor: pointer;
+}
+li button {
+  background-color: transparent;
+  border: none;
+  width: 100%;
+}

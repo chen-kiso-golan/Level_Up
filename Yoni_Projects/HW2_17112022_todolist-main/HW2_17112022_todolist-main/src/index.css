@@ -1,0 +1,39 @@
+#root {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(178, 235, 235) !important;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.input_and_button {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  margin: 2px;
+}
+
+.card-header {
+  display: flex;
+  justify-content: center;
+  width: 100% !important;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
+
+.btn-outline-secondary {
+  white-space: nowrap;
+}

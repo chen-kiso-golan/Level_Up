@@ -1,0 +1,17 @@
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\bin\Debug\net6.0-windows\week_4_Winform_Interface.exe
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\bin\Debug\net6.0-windows\week_4_Winform_Interface.deps.json
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\bin\Debug\net6.0-windows\week_4_Winform_Interface.runtimeconfig.json
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\bin\Debug\net6.0-windows\week_4_Winform_Interface.dll
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\bin\Debug\net6.0-windows\week_4_Winform_Interface.pdb
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\week_4_Winform_Interface.csproj.AssemblyReference.cache
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\week_4_Winform_Interface.Form1.resources
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\week_4_Winform_Interface.csproj.GenerateResource.cache
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\week_4_Winform_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\week_4_Winform_Interface.AssemblyInfoInputs.cache
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\week_4_Winform_Interface.AssemblyInfo.cs
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\week_4_Winform_Interface.csproj.CoreCompileInputs.cache
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\week_4_Winform_Interface.dll
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\refint\week_4_Winform_Interface.dll
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\week_4_Winform_Interface.pdb
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\week_4_Winform_Interface.genruntimeconfig.cache
+C:\Users\behap\Desktop\tsionet\semeter B\C#\HW_171122\student\week_4_Winform_Interface\obj\Debug\net6.0-windows\ref\week_4_Winform_Interface.dll

@@ -1,0 +1,52 @@
+.table--all {
+  padding: 15px !important;
+  width: 950px !important;
+}
+
+.table--title {
+  white-space: nowrap !important;
+}
+
+td:nth-child(2):hover {
+  cursor: pointer;
+}
+
+.table--all h1,
+.table--all h2,
+.table--all h4,
+.table--all th,
+.table--all td {
+  font-family: cursive;
+}
+.tr--expand {
+  background-color: rgb(224, 245, 203);
+}
+.tr--expand button {
+  height: 50px;
+  width: 200px;
+}
+
+.Ended--Campaigns {
+  text-decoration: line-through;
+  background-color: rgb(247, 210, 210);
+}
+
+.Active--Campaigns {
+  background-color: rgb(224, 245, 203);
+}
+
+.td--image img {
+  width: 70px;
+  height: 70px;
+}
+
+.td--img img {
+  width: 70px;
+  height: 70px;
+}
+
+table {
+  width: 100% !important;
+  table-layout: fixed;
+  word-wrap: break-word;
+}

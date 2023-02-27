@@ -1,0 +1,35 @@
+.List {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.OneList {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.List--text {
+  line-height: 1.4;
+}
+.ListLocationAndMaps {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+  gap: 15px;
+}
+.ListLocationAndMaps a {
+  color: rgb(98, 97, 97);
+  text-decoration: none;
+}
+.List--image {
+  width: 180px;
+  height: 220px;
+  border-radius: 10px;
+}
+.List--date {
+  margin-bottom: 10px;
+}
+.List--title {
+  font-size: xx-large;
+}

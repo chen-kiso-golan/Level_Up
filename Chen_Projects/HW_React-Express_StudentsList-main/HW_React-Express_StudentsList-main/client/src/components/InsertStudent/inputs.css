@@ -1,0 +1,13 @@
+.container--all {
+  padding: 100px !important;
+}
+
+.input-group {
+  padding: 10px !important;
+  display: flex !important;
+}
+
+.btn-primary {
+  justify-content: center !important;
+  margin-left: 50% !important;
+}

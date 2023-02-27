@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "week_4_Winform_Interface/1.0.0": {
+        "runtime": {
+          "week_4_Winform_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week_4_Winform_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

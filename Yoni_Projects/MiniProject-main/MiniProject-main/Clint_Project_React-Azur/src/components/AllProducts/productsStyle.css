@@ -1,0 +1,12 @@
+.table--all {
+  padding: 15px !important;
+  width: 950px !important;
+}
+
+.table--title {
+  white-space: nowrap !important;
+}
+
+td:nth-child(2):hover {
+  cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.background {
+  background: rgb(167, 167, 250);
+  display: flex;
+  flex-direction: column;
+}
+
+.img1 {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.img2 {
+  height: 250px;
+  width: 250px;
+}
+
+li {
+  margin-right: 15px;
+}

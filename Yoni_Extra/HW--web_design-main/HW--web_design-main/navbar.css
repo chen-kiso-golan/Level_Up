@@ -1,0 +1,26 @@
+.navcon {
+  width: 100%;
+  height: 30px;
+  background-color: rgb(66, 66, 66);
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: center;
+  padding: 10px;
+  border-radius: 3px;
+}
+.navbar {
+  text-decoration: none;
+}
+.button {
+  margin: 2px;
+}
+/* 
+    <nav>
+        <div class="navcon">
+          <button class="button">
+            <a class="navbar" href="index.html">home</a>
+          </button>
+        </div>
+   </nav> 
+*/

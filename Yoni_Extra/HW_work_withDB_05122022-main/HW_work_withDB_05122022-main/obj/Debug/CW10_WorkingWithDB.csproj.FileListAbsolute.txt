@@ -1,0 +1,22 @@
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\bin\Debug\CW10_WorkingWithDB.exe.config
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\bin\Debug\CW10_WorkingWithDB.exe
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\bin\Debug\CW10_WorkingWithDB.pdb
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.csproj.AssemblyReference.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.csproj.SuggestedBindingRedirects.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.Form1.resources
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.Properties.Resources.resources
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.csproj.GenerateResource.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.exe
+C:\level-up\Semester B\C# lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.pdb
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\bin\Debug\CW10_WorkingWithDB.exe.config
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\bin\Debug\CW10_WorkingWithDB.exe
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\bin\Debug\CW10_WorkingWithDB.pdb
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.csproj.AssemblyReference.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.csproj.SuggestedBindingRedirects.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.Form1.resources
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.Properties.Resources.resources
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.csproj.GenerateResource.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.exe
+C:\level-up\Semester B\C#-lesson-levelUp\Cs-Start_13112022\CW10_WorkingWithDB\obj\Debug\CW10_WorkingWithDB.pdb

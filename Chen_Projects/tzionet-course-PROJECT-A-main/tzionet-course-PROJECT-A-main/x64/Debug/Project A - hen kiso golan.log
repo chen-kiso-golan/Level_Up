@@ -1,0 +1,100 @@
+﻿  file.c
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(29,20): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(72,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(84,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(28,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(60,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(146,19): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(155,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(172,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(196,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(213,28): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\file.c(145,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  html.c
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(45,15): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(66,27): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(87,26): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(94,13): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(95,27): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(102,14): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(103,28): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(112,15): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(113,29): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(83,28): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(138,26): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(143,12): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(144,26): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 4 has type 'SIZE_T'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%llu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%Iu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%I64u' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 5 has type 'SIZE_T'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%llu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%Iu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%I64u' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 6 has type 'SIZE_T'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%llu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%Iu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%I64u' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 7 has type 'SIZE_T'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%llu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%Iu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(152,26): message : consider using '%I64u' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(154,14): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(155,28): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 4 has type 'SIZE_T'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%llu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%Iu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%I64u' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 5 has type 'SIZE_T'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%llu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%Iu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%I64u' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 6 has type 'SIZE_T'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%llu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%Iu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%I64u' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 7 has type 'SIZE_T'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%llu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%Iu' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(159,26): message : consider using '%I64u' in the format string
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(161,14): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(162,28): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(170,14): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(171,28): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(180,15): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(181,29): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(187,15): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(188,29): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(196,14): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(197,28): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(133,28): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(239,26): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(244,12): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(245,26): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(252,13): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(253,27): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(235,28): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+  log.c
+  main project.c
+  all the project.c
+  snapshots.c
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(84,23): warning C4133: '=': incompatible types - from 'Dic_Process *' to 'Dic_process *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(85,20): warning C4133: '=': incompatible types - from 'Dic_process *' to 'Dic_Process *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(119,110): warning C4133: 'function': incompatible types - from 'Dic_Process *' to 'Dic_process *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(146,110): warning C4133: 'function': incompatible types - from 'Dic_Process *' to 'Dic_process *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(466,27): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(493,11): warning C4098: 'GetProcessesInfo': 'void' function returning a value
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(523,65): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(568,28): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(695,11): warning C4098: 'GetProcessesInfo_noNull': 'void' function returning a value
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(723,65): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(749,12): warning C4098: 'GetProcessesInfo_20version': 'void' function returning a value
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(767,66): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(813,12): warning C4098: 'GetProcessesInfo_UserVersion': 'void' function returning a value
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(837,66): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(975,20): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\snapshots.c(974,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\Project A - hen kiso golan\html.c(28): warning C4715: 'SaveHTMLIntoFile': not all control paths return a value
+  Project A - hen kiso golan.vcxproj -> C:\Users\behap\Desktop\tsionet\all the class\Project A - hen kiso golan\x64\Debug\Project A - hen kiso golan.exe

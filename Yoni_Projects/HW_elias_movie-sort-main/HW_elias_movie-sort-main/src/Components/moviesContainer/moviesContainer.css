@@ -1,0 +1,28 @@
+.listTitle {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: start;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom-width: 30%;
+  color: #333;
+  border-bottom: gray 0.5px solid;
+}
+.moviesContainer {
+  width: 85vw;
+  height: 85vh;
+}
+.movieList {
+  width: 75vw;
+  height: fit-content;
+  display: flex;
+  margin-left: 10px;
+  gap: 25px;
+}
+
+.movieList table tbody {
+  vertical-align: middle;
+}
+.movieList table tr {
+  height: fit-content;
+}

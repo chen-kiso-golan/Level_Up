@@ -1,0 +1,4 @@
+﻿  Quque.c
+C:\level-up\c lesson-level up\source\repos\4.9.2022\argc_argv\argc_argv\Quque.c(81,13): warning C4013: 'time' undefined; assuming extern returning int
+C:\level-up\c lesson-level up\source\repos\4.9.2022\argc_argv\argc_argv\Quque.c(82,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  argc_argv.vcxproj -> C:\level-up\c lesson-level up\source\repos\4.9.2022\argc_argv\x64\Debug\argc_argv.exe

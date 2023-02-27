@@ -1,0 +1,13 @@
+.td--image img {
+  transition: 1s;
+}
+.td--image img:hover {
+  position: fixed;
+  transform: scale(3);
+  box-shadow: 0px 0px 10px black;
+  border-radius: 20%;
+}
+
+.table--all {
+  text-align: center;
+}

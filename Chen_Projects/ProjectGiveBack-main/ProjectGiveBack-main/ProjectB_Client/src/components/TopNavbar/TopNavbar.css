@@ -1,0 +1,12 @@
+.topnavbar--container {
+  background-color: rgb(219, 232, 244);
+}
+.topnavbar--menu {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 10px;
+}
+ul {
+  gap: 10%;
+}

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>server</title>
+    <!-- Google Fonts -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic"
+    />
+
+    <!-- CSS Reset -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+
+    <!-- Milligram CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css"
+    />
+
+    <style>
+      body {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        margin-top: 100px;
+        background-color: rgb(238, 241, 91);
+      }
+
+      img {
+        box-shadow: 6px 6px 4px 4px rgb(178, 201, 215);
+        border-radius: 20px;
+        width: 400px;
+      }
+
+      input[type="text"],
+      input[type="email"],
+      input[type="date"],
+      input[type="tel"] {
+        outline-style: dotted;
+        outline-color: aliceblue;
+        background-color: rgb(226, 232, 33);
+      }
+
+      input:focus {
+        background-color: rgb(131, 139, 8);
+      }
+
+      label {
+        color: rgb(122, 160, 218);
+      }
+
+      button {
+        background-color: rgb(122, 160, 218);
+        outline-style: dotted;
+        outline-color: aliceblue;
+      }
+    </style>
+  </head>
+
+  <body>
+    <form action="https://formspree.io/f/xrgdeqng" method="post">
+      <img src="/images/Spongebob_Squarepants.webp" alt="bob" />
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required />
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" />
+      </div>
+
+      <div class="form-group">
+        <label for="date">date</label>
+        <input type="date" id="date" name="date" />
+      </div>
+
+      <div class="form-group">
+        <label for="tel">tel</label>
+        <input type="tel" id="tel" name="tel" />
+      </div>
+
+      <button type="submit">submit</button>
+      <button type="reset">reset</button>
+    </form>
+  </body>
+</html>

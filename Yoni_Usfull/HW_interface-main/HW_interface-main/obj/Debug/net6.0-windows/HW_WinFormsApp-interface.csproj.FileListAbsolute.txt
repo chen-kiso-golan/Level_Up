@@ -1,0 +1,17 @@
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\bin\Debug\net6.0-windows\HW_WinFormsApp-interface.exe
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\bin\Debug\net6.0-windows\HW_WinFormsApp-interface.deps.json
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\bin\Debug\net6.0-windows\HW_WinFormsApp-interface.runtimeconfig.json
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\bin\Debug\net6.0-windows\HW_WinFormsApp-interface.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\bin\Debug\net6.0-windows\HW_WinFormsApp-interface.pdb
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\HW_WinFormsApp-interface.csproj.AssemblyReference.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\HW_WinFormsApp_interface.Form1.resources
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\HW_WinFormsApp-interface.csproj.GenerateResource.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\HW_WinFormsApp-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\HW_WinFormsApp-interface.AssemblyInfoInputs.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\HW_WinFormsApp-interface.AssemblyInfo.cs
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\HW_WinFormsApp-interface.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\HW_WinFormsApp-interface.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\refint\HW_WinFormsApp-interface.dll
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\HW_WinFormsApp-interface.pdb
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\HW_WinFormsApp-interface.genruntimeconfig.cache
+C:\level-up\Semester B\C# lesson-levelUp\Cs_HW-Folder\Student_class\HW_WinFormsApp-interface\obj\Debug\net6.0-windows\ref\HW_WinFormsApp-interface.dll

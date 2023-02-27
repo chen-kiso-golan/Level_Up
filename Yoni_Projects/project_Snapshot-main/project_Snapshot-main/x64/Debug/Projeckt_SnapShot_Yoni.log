@@ -1,0 +1,17 @@
+﻿  Data_Base_SnapShot.c
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(501,11): warning C4098: 'GetProcessesInfo': 'void' function returning a value
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(536,77): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(562,3): warning C4033: 'SearchProcess' must return a value
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(557,1): warning C4133: 'initializing': incompatible types - from 'ProcessData *' to 't_HeadOfSnapshotsList *'
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(640,11): warning C4098: 'GetProcessesInfo_WithoutNULL': 'void' function returning a value
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(675,77): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(794,12): warning C4098: 'GetProcessesInfo_20': 'void' function returning a value
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(813,78): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(857,12): warning C4098: 'GetProcessesInfo_Long_SnapShot': 'void' function returning a value
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(883,78): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(989,20): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(988,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.c
+  Generating Code...
+C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\Projeckt_SnapShot_Yoni\Data_Base_SnapShot.c(589): warning C4715: 'SearchProcess': not all control paths return a value
+  Projeckt_SnapShot_Yoni.vcxproj -> C:\level-up\c lesson-level up\source\repos\22.9.2022\Projeckt_SnapShot_Yoni\x64\Debug\Projeckt_SnapShot_Yoni.exe

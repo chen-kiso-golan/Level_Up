@@ -1,0 +1,8 @@
+C:\Users\behap\Desktop\tsionet new\NUnit\NUnit\obj\Debug\NUnit.csproj.AssemblyReference.cache
+C:\Users\behap\Desktop\tsionet new\NUnit\NUnit\obj\Debug\NUnit.csproj.SuggestedBindingRedirects.cache
+C:\Users\behap\Desktop\tsionet new\NUnit\NUnit\obj\Debug\NUnit.csproj.CoreCompileInputs.cache
+C:\Users\behap\Desktop\tsionet new\NUnit\NUnit\bin\Debug\NUnit.exe.config
+C:\Users\behap\Desktop\tsionet new\NUnit\NUnit\bin\Debug\NUnit.exe
+C:\Users\behap\Desktop\tsionet new\NUnit\NUnit\bin\Debug\NUnit.pdb
+C:\Users\behap\Desktop\tsionet new\NUnit\NUnit\obj\Debug\NUnit.exe
+C:\Users\behap\Desktop\tsionet new\NUnit\NUnit\obj\Debug\NUnit.pdb

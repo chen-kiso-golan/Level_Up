@@ -1,0 +1,12 @@
+.buttomNavbar--container {
+  background-color: rgb(219, 232, 244);
+}
+.buttomNavbar--menu {
+  display: flex;
+  flex-direction: row-reverse;
+  list-style: none;
+  padding: 10px;
+}
+ul {
+  gap: 10%;
+}

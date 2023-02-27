@@ -1,0 +1,11 @@
+.card-deck {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.card {
+  height: 400px;
+  width: 200px;
+  margin: 10px;
+}

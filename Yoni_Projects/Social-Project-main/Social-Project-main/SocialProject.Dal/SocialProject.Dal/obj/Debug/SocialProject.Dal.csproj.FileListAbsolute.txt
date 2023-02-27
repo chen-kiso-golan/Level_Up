@@ -1,0 +1,9 @@
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Dal\bin\Debug\SocialProject.Dal.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Dal\bin\Debug\SocialProject.Dal.pdb
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Dal\obj\Debug\SocialProject.Dal.csproj.AssemblyReference.cache
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Dal\obj\Debug\SocialProject.Dal.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Dal\obj\Debug\SocialProject.Dal.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Dal\obj\Debug\SocialProject.Dal.pdb
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Dal\bin\Debug\MyUtilities.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Dal\bin\Debug\MyUtilities.pdb
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.Dal\obj\Debug\SocialProject.Dal.csproj.CopyComplete

@@ -1,0 +1,13 @@
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\bin\Debug\SocialProject.DataSql.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\bin\Debug\SocialProject.DataSql.pdb
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\bin\Debug\SocialProject.Dal.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\bin\Debug\SocialProject.Model.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\bin\Debug\SocialProject.Dal.pdb
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\bin\Debug\SocialProject.Model.pdb
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\obj\Debug\SocialProject.DataSql.csproj.AssemblyReference.cache
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\obj\Debug\SocialProject.DataSql.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\obj\Debug\SocialProject.DataSql.csproj.CopyComplete
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\obj\Debug\SocialProject.DataSql.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\obj\Debug\SocialProject.DataSql.pdb
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\bin\Debug\MyUtilities.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\SocialProject.DataSql\bin\Debug\MyUtilities.pdb

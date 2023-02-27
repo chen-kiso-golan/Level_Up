@@ -1,0 +1,12 @@
+C:\Users\behap\Desktop\tsionet\orel_ASP\Project_B\ProjectB.Model\bin\Debug\ProjectB.Model.dll
+C:\Users\behap\Desktop\tsionet\orel_ASP\Project_B\ProjectB.Model\bin\Debug\ProjectB.Model.pdb
+C:\Users\behap\Desktop\tsionet\orel_ASP\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.csproj.AssemblyReference.cache
+C:\Users\behap\Desktop\tsionet\orel_ASP\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.csproj.CoreCompileInputs.cache
+C:\Users\behap\Desktop\tsionet\orel_ASP\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.dll
+C:\Users\behap\Desktop\tsionet\orel_ASP\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.pdb
+C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Model\bin\Debug\ProjectB.Model.dll
+C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Model\bin\Debug\ProjectB.Model.pdb
+C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.csproj.AssemblyReference.cache
+C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.csproj.CoreCompileInputs.cache
+C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.dll
+C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.pdb

@@ -1,0 +1,11 @@
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\bin\Debug\week_5_stringConnection_HW2.exe.config
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\bin\Debug\week_5_stringConnection_HW2.exe
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\bin\Debug\week_5_stringConnection_HW2.pdb
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\obj\Debug\week_5_stringConnection_HW2.csproj.AssemblyReference.cache
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\obj\Debug\week_5_stringConnection_HW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\obj\Debug\week_5_stringConnection_HW2.Form1.resources
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\obj\Debug\week_5_stringConnection_HW2.Properties.Resources.resources
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\obj\Debug\week_5_stringConnection_HW2.csproj.GenerateResource.cache
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\obj\Debug\week_5_stringConnection_HW2.csproj.CoreCompileInputs.cache
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\obj\Debug\week_5_stringConnection_HW2.exe
+C:\Users\behap\Desktop\tsionet\semeter B\Winform\week_5_stringConnection_HW2\obj\Debug\week_5_stringConnection_HW2.pdb

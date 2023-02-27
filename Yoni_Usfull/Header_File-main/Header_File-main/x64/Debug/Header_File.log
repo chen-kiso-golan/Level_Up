@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\level-up\c lesson-level up\source\repos\7.9.2022\Header_File\Header_File\Source.c(58,4): warning C4033: 'search' must return a value
+C:\level-up\c lesson-level up\source\repos\7.9.2022\Header_File\Header_File\Source.c(190,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\level-up\c lesson-level up\source\repos\7.9.2022\Header_File\Header_File\Source.c(212,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\level-up\c lesson-level up\source\repos\7.9.2022\Header_File\Header_File\Source.c(186,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\level-up\c lesson-level up\source\repos\7.9.2022\Header_File\Header_File\Source.c(207,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\level-up\c lesson-level up\source\repos\7.9.2022\Header_File\Header_File\Source.c(213,1): warning C4047: 'initializing': 't_Item *' differs in levels of indirection from 'int'
+C:\level-up\c lesson-level up\source\repos\7.9.2022\Header_File\Header_File\Source.c(62): warning C4715: 'search': not all control paths return a value
+  Header_File.vcxproj -> C:\level-up\c lesson-level up\source\repos\7.9.2022\Header_File\x64\Debug\Header_File.exe

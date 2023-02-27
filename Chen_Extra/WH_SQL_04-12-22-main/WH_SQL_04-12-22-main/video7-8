@@ -1,0 +1,191 @@
+
+----CW1_video 7
+--select EmployeeID,
+--case
+--when Notes like '% BA %' then 'Academic'
+--else 'High School'
+--end as Knowladge
+--from dbo. Employees
+
+
+----CW2_video 7
+--select Customer ID,
+--case
+--when Region is null then 'Ein Ezor'
+--else Region
+--end as Region
+--from dbo. Customermers
+
+----CW1-3_video 7
+--create trigger trigger_newPrices on myProducts
+--for update
+--as
+--begin
+--insert into newProductsPrice Change (Product ID, UnitPrice)
+--select Product ID, UnitPrice from inserted
+--end
+--update myProducts
+--set UnitPrice = UnitPrice + 10
+--where Product Name like 'ch%'
+--select count (*) from myProducts
+--where Product Name like 'ch%'
+--select * from newProductsPriceChange
+
+----CW1_video 8
+--select * from [Order Details]
+--where OrderID in 
+--(select OrderId
+--from Orders
+--where EmployeeID = 1)
+
+------------------------------------------------------------------------------------------------------------------
+----Q1_video 7
+--select *,
+--case
+--when [Country] like 'A%' then 'AAA'
+--when [Country] like 'B%' then 'BBB'
+--when [Country] like 'C%' then 'CCC'
+--else 'ZZZ'
+--end as COUNTRY_NICK
+--from [dbo].[Customers]
+
+----Q2_video 7
+
+--select *,
+--case
+--	when [UnitPrice] < 5 then 'Cheap'
+--	when [UnitPrice] between 5 and 10 then 'Medium'
+--	when [UnitPrice] > 100 then 'Expensive'
+--	else 'Normal'
+--end as Recommended_Price
+--from [dbo].[Products]
+
+
+----Q1-2_video 8
+--select [CustomerID] from [dbo].[Orders] where [OrderID] in
+--(select [OrderID] from [dbo].[Order Details] where [dbo].[Order Details].UnitPrice = 14)
+
+----Q3_video 8
+
+----select * from [dbo].[Customers] where [City] = 'Seattle' or [City] = 'New York' or [City] = 'Los Angeles' or [City] = 'London'
+--select * from [dbo].[Customers]
+--select * from [dbo].[Employees]
+
+--select C.City, C.ContactName, E.LastName, E.FirstName from [Customers] as C
+--inner join Employees as E on E.City = C.City 
+--where C.City in
+--(select City from Employees where Employees.City like 'Seattle' or Employees.City like 'New York' or Employees.City like 'Los Angeles')
+
+
+----Q4_video 8
+--select * from [dbo].[Products] where [UnitPrice]>30 and [SupplierID] in
+--(select [SupplierID] from [dbo].[Suppliers] where [Country] = 'USA' or [Country] like 'UK')
+
+----Q5-6_video 8
+--create PROCEDURE OrderDetails_ById
+--	@Param1 int
+--AS
+--BEGIN
+--	select * from [dbo].[Order Details] where [OrderID] = @Param1
+--END
+--GO
+
+--exec OrderDetails_ById @Param1=10248
+--drop PROCEDURE OrderDetails_ById
+
+----Q7_video 8
+--select * from [dbo].[Order Details]
+
+--create PROCEDURE OrderDetails_By_ProductID
+--	@Param1 int
+--AS
+--BEGIN
+
+--	select * from [dbo].[Order Details] where [ProductID] = @Param1
+--END
+--GO
+
+--exec OrderDetails_By_ProductID @Param1=11
+--drop PROCEDURE OrderDetails_By_ProductID
+
+----Q8_video 8
+--create PROCEDURE ProductName_ByPrice
+--	@Param1 money
+--	AS
+--BEGIN
+--	select [ProductName],[UnitPrice] from [dbo].[Products] where [UnitPrice] = @Param1
+--END
+--GO
+
+--exec ProductName_ByPrice @Param1=23.25
+--drop PROCEDURE ProductName_ByPrice
+
+----Q9_video 8
+--create PROCEDURE OrderBy_Shippers
+--	@Param1 int
+--AS
+--BEGIN
+--	select distinct [OrderID] from [dbo].[Orders] where [ShipVia] = @Param1
+--END
+--GO
+
+--exec OrderBy_Shippers @Param1=2
+--drop PROCEDURE OrderBy_Shippers
+
+
+----Q4_video אגרגציה
+--select [UnitPrice], 
+--ProductsCount = COUNT(*),
+--AveragePricing = AVG([UnitPrice]), 
+--TotalPriceBYGroup = sum([UnitPrice]),
+--MinStock = Min([UnitsInStock]),
+--MaxStock = Max([UnitsInStock])
+--from [dbo].[Products]
+--where [UnitPrice] between 10 and 50
+--group by [UnitPrice]
+--having sum([UnitPrice]) > 40
+--order by MinStock DESC --or ASC 
+
+----Q5_video אגרגציה
+--select MaxStock = max(UnitPrice) from [dbo].[Products]
+
+----Q6_video אגרגציה
+--select AveragePricing = AVG(UnitPrice) from [dbo].[Products]
+
+----Q7_video אגרגציה
+--select MinStock = MIN(UnitPrice) from [dbo].[Products]
+
+----Q8_video אגרגציה
+--select [ProductName] from [dbo].[Products] where [UnitPrice] in
+--(select max(UnitPrice) from [dbo].[Products])
+
+----Q9_video אגרגציה
+--select [ProductName] from [dbo].[Products] where [UnitPrice] in
+--(select Min([UnitPrice]) from [dbo].[Products])
+
+
+
+----Q10_video אגרגציה
+--create PROCEDURE ProductsBY_CountryName
+--	@Param1 nvarchar(max)
+--AS
+--BEGIN
+--	select ProductsBY_CountryName = Count(OrderID) from [dbo].[Orders] where [ShipCountry] = @Param1
+--END
+--GO
+
+--exec ProductsBY_CountryName @Param1='USA'
+--drop PROCEDURE ProductsBY_CountryName
+
+----Q11_video אגרגציה
+--create PROCEDURE ProductsBY_CountryName2
+--	@Param1 nvarchar(max)
+--AS
+--BEGIN
+--	select count(OrderID) as ProductsCount from [Order Details] 
+--    where OrderID in (select OrderID from [Orders] where [ShipCountry] = @Param1)
+--END
+--GO
+
+--exec ProductsBY_CountryName2 @Param1='USA'
+--drop PROCEDURE ProductsBY_CountryName2

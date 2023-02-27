@@ -1,0 +1,9 @@
+﻿  CW_Parsing.c
+C:\level-up\c lesson-level up\source\repos\14.9.2022\Parsing\Parsing\CW_Parsing.c(300,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\level-up\c lesson-level up\source\repos\14.9.2022\Parsing\Parsing\CW_Parsing.c(322,26): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\level-up\c lesson-level up\source\repos\14.9.2022\Parsing\Parsing\CW_Parsing.c(328,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\level-up\c lesson-level up\source\repos\14.9.2022\Parsing\Parsing\CW_Parsing.c(321,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\level-up\c lesson-level up\source\repos\14.9.2022\Parsing\Parsing\CW_Parsing.c(375,25): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\level-up\c lesson-level up\source\repos\14.9.2022\Parsing\Parsing\CW_Parsing.c(380,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\level-up\c lesson-level up\source\repos\14.9.2022\Parsing\Parsing\CW_Parsing.c(373,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Parsing.vcxproj -> C:\level-up\c lesson-level up\source\repos\14.9.2022\Parsing\x64\Debug\Parsing.exe

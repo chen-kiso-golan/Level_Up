@@ -1,0 +1,6 @@
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\MyUtilities\bin\Debug\MyUtilities.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\MyUtilities\bin\Debug\MyUtilities.pdb
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\MyUtilities\obj\Debug\MyUtilities.csproj.AssemblyReference.cache
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\MyUtilities\obj\Debug\MyUtilities.csproj.CoreCompileInputs.cache
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\MyUtilities\obj\Debug\MyUtilities.dll
+C:\level-up\Semester B\Midel Project\SocialProject.Dal\MyUtilities\obj\Debug\MyUtilities.pdb

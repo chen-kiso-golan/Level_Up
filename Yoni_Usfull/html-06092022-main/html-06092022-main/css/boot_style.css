@@ -1,0 +1,11 @@
+form {
+  width: 300px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(254, 187, 98);
+}

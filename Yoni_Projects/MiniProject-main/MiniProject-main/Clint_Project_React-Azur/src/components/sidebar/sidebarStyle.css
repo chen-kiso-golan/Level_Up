@@ -1,0 +1,92 @@
+.container {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 100vh;
+  background-color: rgb(178, 218, 250);
+}
+
+ul {
+  background-color: rgb(178, 218, 250);
+  list-style: none;
+}
+li {
+  position: relative;
+  left: -40px;
+  background-color: rgb(178, 218, 250);
+
+  padding: 5px;
+}
+.yoni-li {
+  margin-top: 30px;
+}
+a {
+  background-color: rgb(178, 218, 250);
+  text-decoration: none;
+  color: rgb(235, 145, 35) !important;
+  margin: 3px;
+}
+.label--sidebar {
+  background-color: rgb(178, 218, 250);
+}
+.label--sidebar:hover {
+  cursor: pointer;
+}
+svg {
+  background-color: rgb(178, 218, 250);
+  color: rgb(235, 145, 35);
+  margin: 2px;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 70px !important;
+  }
+  label {
+    display: none !important;
+  }
+  svg {
+    position: relative;
+  }
+  .img-profile--background {
+    width: 50px;
+  }
+  .profile--email {
+    display: none;
+  }
+  .profile--name {
+    font-size: x-small;
+    white-space: nowrap;
+  }
+  .btnTheme {
+    font-size: x-small !important;
+    padding: 8px !important;
+  }
+  .btn-profile--background {
+    font-size: x-small !important;
+    padding: 8px !important;
+  }
+}
+
+.profile--background {
+  background-color: rgb(178, 218, 250) !important;
+}
+
+.img-profile--background {
+  border-radius: 60% !important;
+}
+
+.btn-profile--background {
+  background-color: bisque;
+  padding: 5px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  border-color: bisque;
+}
+
+/* for ligth\dark button */
+.btn {
+  border-radius: 20px !important;
+}
