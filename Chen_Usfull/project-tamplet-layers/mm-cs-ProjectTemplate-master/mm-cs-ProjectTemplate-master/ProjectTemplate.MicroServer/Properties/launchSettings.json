@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ProjectTemplate.MicroServer": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7286",
+      "launchBrowser": false
+    }
+  }
+}
