@@ -22,3 +22,16 @@ C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Data.Sql\obj\Debug\P
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Data.Sql\obj\Debug\ProjectB.Data.Sql.pdb
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Data.Sql\bin\Debug\Utilities.dll
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Data.Sql\bin\Debug\Utilities.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\bin\Debug\ProjectB.Data.Sql.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\bin\Debug\ProjectB.Data.Sql.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\bin\Debug\ProjectB.Dal.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\bin\Debug\ProjectB.Model.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\bin\Debug\Utilities.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\bin\Debug\ProjectB.Dal.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\bin\Debug\ProjectB.Model.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\bin\Debug\Utilities.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\obj\Debug\ProjectB.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\obj\Debug\ProjectB.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\obj\Debug\ProjectB.Data.Sql.csproj.CopyComplete
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\obj\Debug\ProjectB.Data.Sql.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Data.Sql\obj\Debug\ProjectB.Data.Sql.pdb

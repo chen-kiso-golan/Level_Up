@@ -10,3 +10,9 @@ C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\Proj
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.csproj.CoreCompileInputs.cache
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.dll
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Model\bin\Debug\ProjectB.Model.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Model\bin\Debug\ProjectB.Model.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.csproj.AssemblyReference.cache
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.csproj.CoreCompileInputs.cache
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Model\obj\Debug\ProjectB.Model.pdb

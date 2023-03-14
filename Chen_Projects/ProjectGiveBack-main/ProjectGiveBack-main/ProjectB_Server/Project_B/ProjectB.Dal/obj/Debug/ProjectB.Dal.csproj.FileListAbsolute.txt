@@ -13,3 +13,12 @@ C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Dal\obj\Debug\Projec
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Dal\bin\Debug\Utilities.dll
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Dal\bin\Debug\Utilities.pdb
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\ProjectB.Dal\obj\Debug\ProjectB.Dal.csproj.CopyComplete
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Dal\bin\Debug\ProjectB.Dal.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Dal\bin\Debug\ProjectB.Dal.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Dal\bin\Debug\Utilities.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Dal\bin\Debug\Utilities.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Dal\obj\Debug\ProjectB.Dal.csproj.AssemblyReference.cache
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Dal\obj\Debug\ProjectB.Dal.csproj.CoreCompileInputs.cache
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Dal\obj\Debug\ProjectB.Dal.csproj.CopyComplete
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Dal\obj\Debug\ProjectB.Dal.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\ProjectB.Dal\obj\Debug\ProjectB.Dal.pdb

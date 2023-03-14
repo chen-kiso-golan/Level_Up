@@ -4,3 +4,9 @@ C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\Utilities\obj\Debug\Utilities
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\Utilities\obj\Debug\Utilities.dll
 C:\Users\behap\Desktop\a\ProjectB_Server\Project_B\Utilities\obj\Debug\Utilities.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\Utilities\bin\Debug\Utilities.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\Utilities\bin\Debug\Utilities.pdb
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\Utilities\obj\Debug\Utilities.dll
+C:\Users\behap\Desktop\github\Level_Up\Chen_Projects\ProjectGiveBack-main\ProjectGiveBack-main\ProjectB_Server\Project_B\Utilities\obj\Debug\Utilities.pdb
